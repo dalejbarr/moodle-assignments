@@ -1,6 +1,6 @@
 ---
 title: "Timed Moodle Assignments and Exams"
-author: "School of Psychology Teaching Team"
+author: "Dale Barr and Helena Paterson, University of Glasgow School of Psychology"
 date: "18/03/2020"
 output: 
   html_document:
@@ -173,5 +173,3 @@ Before releasing feedback to students, check that all submitted assignments have
 Sometimes with anonymous grading you need to find out the identity of a student before you release the grades. Here is a hack that allows you to do this.
 
 On the main page for the course, click on the Settings (cog icon), select `More...`. Under **Course Administration** click the **Reports** tab, then select **Assignment submission report**. This will give you a file that links the moodle anonymous ID to student identities. 
-
-*Mar 18, 2020, -DJB*
