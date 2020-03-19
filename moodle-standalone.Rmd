@@ -11,6 +11,12 @@ output:
 div.note { background-color:#e6f0ff; border-radius: 5px; padding: 20px; }
 </style>
 
+<div class="note">
+*The source code (R Markdown) for this document is available for modification and re-use under a CC-BY-SA license at <https://github.com/dalejbarr/moodle-assignments>.*
+
+- [Dale Barr](https://twitter.com/dalejbarr/) and [Helena Paterson](https://twitter.com/PatersonHelena)
+</div>
+
 This document will take you step-by-step through the process of setting up a timed assignment or exam using Moodle **Assignments**. It is assumed that you already have set up a Moodle page for your course, and added a section into which you will place the assignment. What this document does *not* cover is how to have different versions of an exam for different students/groups; although this is possible, for simplicity, this document assumes that all students receive the same version of the exam. The following topics are covered:
 
 1. Adding and configuring a new assignment.
